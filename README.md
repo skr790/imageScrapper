@@ -1,2 +1,2 @@
 # imageScrapper
-python script to scrap images from website
+python script to scrap images from website.
